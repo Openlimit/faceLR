@@ -214,4 +214,9 @@ if __name__ == '__main__':
     # obj2bin('/home/meidai/下载/im_std/stdhead_tr.obj')
     # gen_allmarks('/home/meidai/下载/stdhead_tr/marks_tr.txt', '/home/meidai/下载/stdhead_tr/stdhead_tr.obj')
     # marks2pp('/home/meidai/下载/stdhead_tr/marks_tr_all.txt')
-    bin2obj('/home/meidai/下载/test/frame_dump.bingen')
+
+    bin2obj('/home/meidai/下载/genobj_tym/frame_dump.bin')
+    bin2obj('/home/meidai/下载/genobj_tym/legs_dump_left.bin')
+    bin2obj('/home/meidai/下载/genobj_tym/legs_dump_right.bin')
+    bin2obj('/home/meidai/下载/genobj_tym/lens_dump_left.bin')
+    bin2obj('/home/meidai/下载/genobj_tym/lens_dump_right.bin')
